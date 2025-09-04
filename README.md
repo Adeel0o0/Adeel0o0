@@ -1,8 +1,7 @@
 ### Hi, I'm Adeel 👋🏽 👨🏽‍💻
 
 
-- 🔭 I work as a Senior Customer engineer at a marketing tech company.
-- 🌱 I’m currently building my first web app.
-- 📫 How to reach me: [Linkedin](https://uk.linkedin.com/in/adeel0o0) [Deactivated]
+- 🔭 I work as a Support Engineer.
+- 📫 How to reach me: [Linkedin](https://uk.linkedin.com/in/adeel0o0)
 - 😄 Currently reading: The Vegetarian by Han Kang
 
